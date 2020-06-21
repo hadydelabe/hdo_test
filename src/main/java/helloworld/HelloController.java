@@ -1,4 +1,4 @@
-package calc;
+package helloworld;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
